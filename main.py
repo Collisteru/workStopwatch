@@ -1,17 +1,10 @@
-## FILE MAIN.PY
+h## FILE MAIN.PY
 
 import tkinter as tk
 import tkinter.font as TkFont
 import getpass
 import platform
 
-## ONLY WORKS ON LINUX ##
-
-USER = getpass.getuser()
-
-PATH = "/home/" + USER + "/.workstopwatch"
-
-#####################################################
 
 SOURCE = PATH + "clockSource.txt"
 
@@ -126,7 +119,5 @@ B.grid(row=0, column=2)
 increment()
 displayUpdate()
 
-# Stay on top causes bugs
-# stay_on_top()
 
 root.mainloop()

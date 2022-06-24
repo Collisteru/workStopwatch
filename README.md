@@ -1,4 +1,6 @@
-# WORK STOPWATCH
+![stopwatch demo](https://github.com/Collisteru/workStopwatch/blob/ab7358dc9fe0d152fd02ddd53fb3f32a356fc547/workStopwatchDemoFinal.gif)
+
+# Work Stopwatch
 
 > And what's ten years? Well, it's roughly how long it takes to put in ten thousand hours of hard practice. Ten thousand hours is the magic number of greatness.
 -- Malcom Gladwell
